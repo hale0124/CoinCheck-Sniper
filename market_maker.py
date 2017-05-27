@@ -81,5 +81,8 @@ def loop():
 #print(order_api.create(rate=1000, amount=0.005, order_type='buy', pair='btc_jpy')['id'])
 #raise SystemExit
 while True:
-  loop()
-  time.sleep(0.5)
+  try:
+    loop()
+    time.sleep(0.5)
+  except:
+    pass
