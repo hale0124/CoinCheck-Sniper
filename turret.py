@@ -22,11 +22,6 @@ def loop():
   if time.time() > clear:
     clear_your_mind_buddy_everything_is_going_to_be_okay()
     clear = time.time() + 5
-  else:
-    if bid_id != '':
-      order_api.cancel(bid_id)
-    if ask_id != '':
-      order_api.cancel(ask_id)
   
   position_data = coincheckapi.accounts_balance()
   net_holdings = float(position_data['btc']) + float(position_data['btc_reserved'])
@@ -82,6 +77,11 @@ def loop():
   
   if sell_amount > 0:
     sell_order = order_api.create(rate=algorithim_best_ask, amount=abs(sell_amount), order_type='sell', pair='btc_jpy')
+
+  if bid_id != '':
+      order_api.cancel(bid_id)
+  if ask_id != '':
+    order_api.cancel(ask_id)
   
   if buy_amount > 0:
     try:
