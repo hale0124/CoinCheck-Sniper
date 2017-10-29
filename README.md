@@ -43,6 +43,10 @@ Spread: | **80** Yen
 
 The spread has dropped from 100 yen to 80 yen, so the market is becoming more **liquid** because it is now less costly for a customer to buy or sell, since they recieve a much better price.
 
+Below is a photo of what the actual market for Bitcoin on CoinCheck looks like, the green prices are bids, and the red prices are asks.
+
+![](http://ronen.io/orderbook.PNG)
+
 # And This Makes Me Money
 Now that my computer is offering the best bid, 500010 yen, and the best ask, 500090, let's say someone comes along and places an order to sell.
 I'll buy their coins at 500010 yen, and wait until someone eventually comes along to buy (the coins I just bought) from me at 500090 yen. 
