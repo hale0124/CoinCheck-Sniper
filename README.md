@@ -43,7 +43,7 @@ Spread: | **80** Yen
 
 The spread has dropped from 100 yen to 80 yen, so the market is becoming more **liquid** because it is now less costly for a customer to buy or sell, since they recieve a much better price.
 
-### And This Makes Me Money
+# And This Makes Me Money
 Now that my computer is offering the best bid, 500010 yen, and the best ask, 500090, let's say someone comes along and places an order to sell.
 I'll buy their coins at 500010 yen, and wait until someone eventually comes along to buy (the coins I just bought) from me at 500090 yen. 
 I then sell the coins I just bought for an **80 yen profit for me**.
@@ -75,3 +75,5 @@ It's pretty cheap, an **Amazon one costs just $10 per month**, and is actually i
 
 If you have any questions about the algorithms, feel free to email me! I hope you've enjoyed my brief lesson on market-making and liquidity!
 
+Lastly, for this repository, I've actually included past versions, so you can see the progression of the market-maker and turret bots.
+If you do use these bots to trade, I strongly recommend turrent.py, it's a **beast**.
