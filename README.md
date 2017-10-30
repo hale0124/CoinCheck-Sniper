@@ -41,7 +41,7 @@ Buy | Sell
 500000 Yen | 500100 Yen
 Spread: | **80** Yen
 
-The spread has dropped from 100 yen to 80 yen, so the market is becoming more **liquid** because it is now less costly for a customer to buy or sell, since they recieve a much better price.
+The spread has dropped from 100 yen to 80 yen, so the market is becoming more **liquid** because it is now less costly for a customer to buy or sell, since they receieve a much better price.
 
 # And This Makes Me Money
 Now that my computer is offering the best bid, 500010 yen, and the best ask, 500090, let's say someone comes along and places an order to sell.
