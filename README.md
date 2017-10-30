@@ -70,6 +70,14 @@ order_size = 0.01 //The order amount for the bots bids and asks
 
 filter = 0.05 //An advanced Setting for turret.py Simply put, this setting filters out other smaller bots that trade less than 0.05 bitcoin, in order to prevent them from confusing my bot.
 ```
+
+## Running a Bot
+If you want to run a bot, say, for example, turret.py, just enter the directory and enter:
+
+```
+python turret.py
+```
+
 # Go and Make Some Money!
 After raking in some pretty good profits, I was kicked of the CoinCheck exchange for failing identity verification (US Citizens are not allowed to trade).
 However, **if you have citizenship in any other country**, I encourage you to open an account, and test out my bot. Just remember to change the API key in the Settings.py file to your own.
