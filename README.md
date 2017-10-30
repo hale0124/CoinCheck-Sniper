@@ -1,4 +1,4 @@
-# CoinCheck Algorithm
+# CoinCheck Sniper
 
 This repository contains the two algorithms I used to make-markets on a Japanese Bitcoin Exchange called CoinCheck.
 Before I get into the specifics of the algorithms and how to set them up, I've included a brief explanation on what market-making is.
