@@ -16,7 +16,7 @@ Since the **spread** (the difference), between the best buy and best sell prices
 
 For some assets, especially Bitcoin, the spread can be quite high. For example, on CoinCheck, before I began market-making, the spread was quite high (100 yen which is about $1) per bitcoin.
 
-To illustrate this principle, I've made a table of the best buy and best sell prices on CoinCheck: (this table is commonly reffered to as **market depth**)
+To illustrate this principle, I've made a table of the best buy and best sell prices on CoinCheck: (this table is commonly referred to as **market depth**)
 
 
 Price per Bitcoin:
