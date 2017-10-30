@@ -72,6 +72,12 @@ filter = 0.05 //An advanced Setting for turret.py Simply put, this setting filte
 ```
 
 ## Running a Bot
+First, make sure you have the python2 coincheck package installed. To install it, just run:
+
+```
+pip install coincheck
+```
+
 If you want to run a bot, say, for example, turret.py, just enter the directory and enter:
 
 ```
